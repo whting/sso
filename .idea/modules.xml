@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boy-sso.iml" filepath="$PROJECT_DIR$/boy-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boy-sso-client/boy-sso-client.iml" filepath="$PROJECT_DIR$/boy-sso-client/boy-sso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boy-sso-example/boy-sso-example.iml" filepath="$PROJECT_DIR$/boy-sso-example/boy-sso-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boy-sso-example1/boy-sso-example1.iml" filepath="$PROJECT_DIR$/boy-sso-example1/boy-sso-example1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boy-sso-example2/boy-sso-example2.iml" filepath="$PROJECT_DIR$/boy-sso-example2/boy-sso-example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boy-sso-server/boy-sso-server.iml" filepath="$PROJECT_DIR$/boy-sso-server/boy-sso-server.iml" />
+    </modules>
+  </component>
+</project>
